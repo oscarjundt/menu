@@ -1,0 +1,6 @@
+﻿  test2.cpp
+D:\jundto.SNIRW\tp\td_vs\misepage\misepage\test2.cpp(82,35): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+D:\jundto.SNIRW\tp\td_vs\misepage\misepage\test2.cpp(83,35): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+D:\jundto.SNIRW\tp\td_vs\misepage\misepage\test2.cpp(87,31): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+D:\jundto.SNIRW\tp\td_vs\misepage\misepage\test2.cpp(88,31): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+  misepage.vcxproj -> D:\jundto.SNIRW\tp\td_vs\misepage\Debug\misepage.exe
